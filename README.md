@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Medina ‍‍‍‍🍂</h1>
-<h3 align="center">A student passionate frontend and backend developer from Costa Rica🍀</h3>
+<h3 align="center">A student passionate frontend developer from Costa Rica🍀</h3>
 
-- 🌱 I’m currently learning **Expressjs and Spring Boot**
+- 🌱 I’m currently learning **TypeScript and Tailwind CSS**
 
 - 📫 How to reach me **luisgmedina44@gmail.com**
 
