@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Medina ‍‍‍‍🍂</h1>
 <h3 align="center">A student passionate frontend developer from Costa Rica🍀</h3>
 
-- 🌱 I’m currently learning **TypeScript and Tailwind CSS**
+- 🌱 I’m currently learning **Typescript and NestJs**
 
 - 📫 How to reach me **luisgmedina44@gmail.com**
 
