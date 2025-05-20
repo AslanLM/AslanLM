@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Luis Medina ‍‍‍‍🍂</h1
+<h1 align="center">Hi 👋, I'm Luis Medina ‍‍‍‍🍂</h1>
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AslanLM&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AslanLM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AslanLM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AslanLM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,10 +58,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AslanLM/AslanLM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AslanLM/AslanLM/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AslanLM/AslanLM/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/AslanLM/AslanLM/output/snake.svg" alt="Snake animation" />
 
 ###
